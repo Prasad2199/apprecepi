@@ -4,6 +4,6 @@
      <img 
       src="images/www.jpg" 
       alt="Everything Is AWESOME" 
-      style="width:100%;">
+      style="width:30%;">
       </a>
     </div>
